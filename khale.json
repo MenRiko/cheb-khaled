@@ -1,0 +1,261 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-9322101337669156/8016236605",
+      "banner_admob":"ca-app-pub-9322101337669156/9272961035",
+      "native_admob":"ca-app-pub-9322101337669156/2118571573",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. Didi",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20667",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"02. Sahra",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20668",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"03. Aicha",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20669",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"04. Chebba",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20670",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"05. Abdel Kader",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20671",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"06. Ouelli El Darek",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20672",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. Nssi Nssi",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20673",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. Lillah",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20674",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09. La Camel",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20675",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10. Wahrane Wahrane",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20676",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11. Ragda",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20677",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Walou Walou",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20678",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. Mauvais Sang",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20679",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"14. El Harba",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20680",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"15. Tegdi La Bghat Tegdi",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20343",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"16. Sabri Sabri",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20344",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"17. Zidi Serbi",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20345",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"18. Hakda Dima Yasrali",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20346",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"19. Kwaghti Mahrougine",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20347",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"20. Raba Raba ",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=20348",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"21. Cest la vie",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=18414",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"22. Hiya Hiya",
+         "artist":"Cheb Khaled (feat. Pitbull)",
+         "song_link":"https://www.nozika.co/down.php?s_id=18415",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"23. Dima Labess",
+         "artist":"Cheb Khaled (feat. Mazagan)",
+         "song_link":"https://www.nozika.co/down.php?s_id=18416",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"24. Elle est partie",
+         "artist":"Cheb Khaled",
+         "song_link":"https://www.nozika.co/down.php?s_id=18417",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"25. Laila",
+         "artist":"Cheb Khaled (feat. Marwan)",
+         "song_link":"https://www.nozika.co/down.php?s_id=18418",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"26. Andalucia ",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=18419",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"27. El Harraga",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=18420",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"28. Bab Jenna",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=18421",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"29. Wili Wili",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=18422",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"30. Samira",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=18423",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"31. Ya Taleb",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=33475",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"32. Shab El Baroud",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=33476",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"33. Chaba Bent Bladi",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=33477",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"34. Moule El Koutche",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=33478",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"35. Galbi Bgha El Beida",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=33482",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"36. Wahda Be Wahda",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=35774",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"37. Wenta Maaya",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=43505",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"38. Chabab donia ",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=43506",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"39. .Adieu",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=43515",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"40. Ana Aacheck ",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=43516",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"41. Encore Une Fois",
+         "artist":"Cheb Khaled ",
+         "song_link":"https://www.nozika.co/down.php?s_id=43518",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
+
